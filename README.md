@@ -39,6 +39,11 @@ project_root/
 ├── snapshots/
 ├── imagery/
 ├── QGIS-PART 2/
+├── Blindspots_final.csv/
+├──  Non_blind_final.csv/
+├── Stable_unpaved_roads_fixed.csv/
+├── Blindspots_districts.csv/
+
 
 How to Run (Part 1)
 
